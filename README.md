@@ -1,16 +1,17 @@
-## Hi there 👋
+# Economist
+### Education
+Economics. Phd.
+Economics. MA
 
-<!--
-**anderson-tami-patino/anderson-tami-patino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Work Experience
+Visiting Assistant Professor @ St Mary's College of Maryland. 
+St Mary's City. MD
 
-Here are some ideas to get you started:
+Teaching Assistant @ Florida International University.
+Miami. Florida
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Assistant Professor @ Universidad de la Salle. 
+Bogotá, Colombia
+
+Instructor @ Universidad Externado de Colombia
+Bogotá, Colombia
