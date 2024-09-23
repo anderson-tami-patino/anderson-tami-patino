@@ -3,4 +3,4 @@ logo: /assets/img/E89A7191.JPG
 theme: jekyll-theme-minimal
 header_pages:
   - index.md
-  - research.md  # Add this line
+  - research.md
