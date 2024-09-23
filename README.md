@@ -27,7 +27,7 @@ Department of Department of Economics & Business Administration and Management
 
 **Assistant Professor @ Universidad de la Salle. Colombia. (_Jan 2019 - Jul 2019_)**
 - Monetary Theory and Policy.
-- Reserach Methodology
+- Research Methodology
 
 **Instructor @ Universidad Externado de Colombia. (_Jul 2012 - Dec 2018_)**
 - Introductory Economics
