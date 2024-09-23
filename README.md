@@ -10,9 +10,9 @@ Department of Department of Economics & Business Administration and Management
 ## Education
 
 - Ph.D., Economics | Florida International University. Miami, Fl. July 2024
-- MA., Economics | Florida International University. Miami, Fl. May 2022
-- MA., Economics | Universidad Externado de Colombia. Bogotá, Colombia. Dec 2017
-- BA., Economics | Universidad Externado de Colombia. Bogotá, Colombia. Mar 2012
+- MA., Economics   | Florida International University. Miami, Fl. May 2022
+- MA., Economics   | Universidad Externado de Colombia. Bogotá, Colombia. Dec 2017
+- BA., Economics   | Universidad Externado de Colombia. Bogotá, Colombia. Mar 2012
 
 
 ## Work Experience
