@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Economist
 
 Economics of education, conflict and child labor.
