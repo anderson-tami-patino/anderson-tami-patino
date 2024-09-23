@@ -34,4 +34,4 @@ BA., Economics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Universidad Externado de Colombia
 **Instructor @ Universidad Externado de Colombia. (_Jul 2012 - Dec 2018_)**
 - Introductory Economics
 
-[CV](/files/CV.pdf)
+## [CV](/files/CV.pdf)
