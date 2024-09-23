@@ -1,8 +1,5 @@
 ---
 layout: default
 title: Research
+permalink: /research/
 ---
-
-# My Research
-
-Here is a list of my current research projects.
