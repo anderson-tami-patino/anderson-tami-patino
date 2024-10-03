@@ -19,13 +19,13 @@ BA., Economics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Universidad Externado de Colombia
 
 ## Work Experience
 **Visiting Assistant Professor @ St Mary's College of Maryland. (_Aug 2024 - Present_)**
-- Principles of Microeconomics. ECON 102. Fall 2024
+- Principles of Microeconomics. ECON 102. Fall 2024. [Syllabus](/files/Fall 2024 ECON 102.pdf).
 - Principles of Microeconomics. ECON 102. Principles of Macroeconomics. ECON 103. Spring 2025.
 
 
 **Teaching Assistant @ Florida International University. (_Aug 2019 - Jul 2024_)**
-- Principles of Macroeconomics. Fall 2022 - Summer 2023
-- Principles of Microeconomics. Fall 2021 - Summer 2022
+- Principles of Macroeconomics. Fall 2022 - Summer 2023. [Syllabus](/files/syllabus Fall 2022.pdf).
+- Principles of Microeconomics. Fall 2021 - Summer 2022. [Syllabus](/files/Spring 2022.pdf).
 
 **Assistant Professor @ Universidad de la Salle. Colombia. (_Jan 2019 - Jul 2019_)**
 - Monetary Theory and Policy.
