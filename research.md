@@ -5,13 +5,11 @@ layout: default
 # Research
 
 ## Ongoing research projects
--  [Collateral Damage: The Impact of Forced Eradication of Illicit Crops on Human Capital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4694457). With Daniela Horta Sáenz. Working paper. Feb 2024.
+-  [Supply-Side Drug Enforcement and Economic Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4694457). With Daniela Horta Sáenz. Working paper. Jan 2026.
 
-Abstract: The role of eradication policies in decreasing drug trade, insecurity, and ultimately fostering development remains largely debated. This paper examines the unintended consequences of aerial fumigation of coca on human capital accumulation and its medium-term socioeconomic impacts in Colombia. Employing a spatial regression discontinuity design and utilizing newly digitized data on the exact location subject of aerial spraying, we find that eradication increases school dropout and failure rates in the short term.
+Abstract: Do coercive efforts to dismantle illicit economic activity promote development, or can they inadvertently undermine it? We study this question in the context of Colombia's large-scale aerial eradication of coca crops using glyphosate. We digitize detailed geographic data on sprayed areas and exploit quasi-random variation in exposure to eradication flights to estimate both short- and long-run effects on human capital and socioeconomic outcomes. In the short term, we show that aerial eradication increases school dropout, primarily through negative income shocks to affected households. In the longer term, we find that villages previously exposed to spraying exhibit lower educational attainment, higher rates of child labor, increased early marriage, and poorer living conditions, even after the program was suspended. Our findings suggest that when illicit production serves as a subsistence strategy in income-constrained settings, enforcement efforts may generate persistent developmental losses.
 
-- Seasonality, School Calendar, and School Progression: Quasi Experimental Evidence from Colombia. With Abu Shonchoy and Juan Muñoz-Morales.
-
-- Inequality in Access to Higher Education in Colombia. With Alba Nury Martínez, David Ortíz and Omar Vanegas.
+- Mismatch in Higher Education in Colombia. With David Ortíz and Omar Vanegas.
 
 - Effects of School Food Programs: Evidence from Colombia. 
 
