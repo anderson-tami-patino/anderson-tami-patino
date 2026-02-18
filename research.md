@@ -10,7 +10,7 @@ layout: default
 Abstract: Do coercive efforts to dismantle illicit economic activity promote development, or can they inadvertently undermine it? We study this question in the context of Colombia's large-scale aerial eradication of coca crops using glyphosate. We digitize detailed geographic data on sprayed areas and exploit quasi-random variation in exposure to eradication flights to estimate both short- and long-run effects on human capital and socioeconomic outcomes. In the short term, we show that aerial eradication increases school dropout, primarily through negative income shocks to affected households. In the longer term, we find that villages previously exposed to spraying exhibit lower educational attainment, higher rates of child labor, increased early marriage, and poorer living conditions, even after the program was suspended. Our findings suggest that when illicit production serves as a subsistence strategy in income-constrained settings, enforcement efforts may generate persistent developmental losses.
 
 - Mismatch in Higher Education in Colombia. With David Ortíz and Omar Vanegas.
-
+- School repetition and academic performance. With Tobias Pfutze and Omar Vanegas
 - Effects of School Food Programs: Evidence from Colombia. 
 
 ## Publications
