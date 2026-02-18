@@ -2,10 +2,9 @@
 
 Economics of education, conflict and child labor.
 
-Visiting Assistant Professor @St Mary's College of Maryland.
+Assistant Professor @KIMEP University.
 
-Department of Department of Economics & Business Administration and Management
-
+Department of Economics
 
 ## Education
 
@@ -16,7 +15,7 @@ BA., Economics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Universidad Externado de Colombia
 
 
 ## Work Experience
-**Visiting Assistant Professor @ St Mary's College of Maryland. (_Aug 2024 - Present_)**
+**Visiting Assistant Professor @ St Mary's College of Maryland. (_Aug 2024 - May 2025)**
 - Principles of Microeconomics. ECON 102. Fall 2024
 - Principles of Microeconomics. ECON 102. Principles of Macroeconomics. ECON 103. Spring 2025.
 
