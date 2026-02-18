@@ -2,9 +2,9 @@
 
 Economics of education, conflict and child labor.
 
-Visiting Assistant Professor @St Mary's College of Maryland.
+Assistant Professor @KIMEP University.
 
-Department of Department of Economics & Business Administration and Management
+Department of Economics
 
 ## [Research](./research.html).
 
@@ -18,7 +18,13 @@ BA., Economics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Universidad Externado de Colombia
 
 
 ## Work Experience
-**Visiting Assistant Professor @ St Mary's College of Maryland. (_Aug 2024 - Present_)**
+**Assistant Professor @ KIMEP University. (_Jan 2026 - Present_)**
+- Global Economics. ECN2020. Spring 2026.
+- Applied Econometrics. ECN4185. Spring 2026.
+- Advance Microeconomics. ECN5022. Spring 2026.
+
+
+**Visiting Assistant Professor @ St Mary's College of Maryland. (_Aug 2024 - May 2025_)**
 - Principles of Microeconomics. ECON 102. Fall 2024. [Syllabus](/files/Fall 2024 ECON 102.pdf).
 - Principles of Microeconomics. ECON 102. Principles of Macroeconomics. ECON 103. Spring 2025.
 
