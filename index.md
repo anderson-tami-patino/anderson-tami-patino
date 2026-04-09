@@ -21,7 +21,7 @@ BA., Economics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Universidad Externado de Colombia
 **Assistant Professor @ KIMEP University. (_Jan 2026 - Present_)**
 - Global Economics. ECN2020. Spring 2026.
 - Applied Econometrics. ECN4185. Spring 2026.
-- Advance Microeconomics. ECN5022. Spring 2026.
+- Advanced Microeconomics. ECN5022. Spring 2026.
 
 
 **Visiting Assistant Professor @ St Mary's College of Maryland. (_Aug 2024 - May 2025_)**
